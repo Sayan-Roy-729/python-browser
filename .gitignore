@@ -1,0 +1,9 @@
+# python virtual environment
+**/venv/*
+
+# .exe files and folders
+build
+dist
+
+# some unknown file
+main4.spec
